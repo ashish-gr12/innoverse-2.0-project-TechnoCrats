@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.para1{
+    margin-left: 150px;
+}
